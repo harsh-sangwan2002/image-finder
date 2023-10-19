@@ -11,11 +11,9 @@ A quick guide to my Project ->
 ## Tools Used
 
 - ReactJS
-- JSX
-- react-router-dom
-- Font Awesome
-- Bootstrap
-- localStorage
+- unsplash API
+- Tailwind CSS
+- context-api
 
 # Getting Started with Create React App
 
