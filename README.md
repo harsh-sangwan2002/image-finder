@@ -2,11 +2,11 @@
 
 ## Live Website
 
-- [Link](https://find-images-app-main.vercel.app/)
+- [Link]()
 
 A quick guide to my Project ->
 
-<img src = "./image.webp">
+<img src = "/image.webp">
 
 ## Tools Used
 
