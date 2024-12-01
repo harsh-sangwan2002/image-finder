@@ -8,18 +8,18 @@ A quick guide to my Project ->
 
 <img src = "/image.webp">
 
+## Description
+
+- Built an Image Finder app using the Unsplash API, offering seamless access to a wide range of high-quality images.
+- Designed a visually appealing interface with ReactJS and Tailwind CSS, delivering a smooth and responsive user experience.
+- Integrated Context API for efficient state management, enhancing navigation and ensuring optimal application performance.
+
 ## Tools Used
 
 - ReactJS
 - unsplash API
 - Tailwind CSS
 - context-api
-
-## Description
-
-- Built an Image Finder app using the Unsplash API, offering seamless access to a wide range of high-quality images.
-- Designed a visually appealing interface with ReactJS and Tailwind CSS, delivering a smooth and responsive user experience.
-- Integrated Context API for efficient state management, enhancing navigation and ensuring optimal application performance.
 
 # Getting Started with Create React App
 
